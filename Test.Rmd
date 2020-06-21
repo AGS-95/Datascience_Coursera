@@ -2,10 +2,7 @@
 title: "Hello_World"
 author: "Amaresh_Gowri_Shankar"
 date: "6/21/2020"
-output:
-  word_document: default
-  pdf_document: default
-  html_document: default
+output:html_document
 ---
 
 ```{r setup, include=FALSE}
